@@ -40,14 +40,14 @@ In order to run this project is important to set a python environment, you can f
 <a name="files"></a>
 ## Files
 
-- [agent](https://github.com/MauricioTrejo/NavigationProject/blob/master/agent.py) is the py file containing the agent.
-- [model](https://github.com/MauricioTrejo/NavigationProject/blob/master/model.py) is the py file containing the neural networks of actor and critic.
-- [actor weights](https://github.com/MauricioTrejo/NavigationProject/blob/master/checkpoint_actor.pth) contains the weights of the trained actor.
-- [critic weights](https://github.com/MauricioTrejo/NavigationProject/blob/master/checkpoint_critic.pth) contains the weights of the trained critic.
-- [Report](https://github.com/MauricioTrejo/NavigationProject/blob/master/Report.ipynb) contains the report of the agent training.
-- [data/](https://github.com/MauricioTrejo/NavigationProject/tree/master/data) is Unity's environment for 1 and 20 agents.
-- [python/](https://github.com/MauricioTrejo/NavigationProject/tree/master/python) has necessary files for Unity's environment.
-- [reacher](https://github.com/MauricioTrejo/NavigationProject/blob/master/reacher.gif) is a gif with the environment of the project.
+- [agent](https://github.com/MauricioTrejo/ContinuousControl/blob/master/agent.py) is the py file containing the agent.
+- [model](https://github.com/MauricioTrejo/ContinuousControl/blob/master/model.py) is the py file containing the neural networks of actor and critic.
+- [actor weights](https://github.com/MauricioTrejo/ContinuousControl/blob/master/checkpoint_actor.pth) contains the weights of the trained actor.
+- [critic weights](https://github.com/MauricioTrejo/ContinuousControl/blob/master/checkpoint_critic.pth) contains the weights of the trained critic.
+- [Report](https://github.com/MauricioTrejo/ContinuousControl/blob/master/Report.ipynb) contains the report of the agent training.
+- [data/](https://github.com/MauricioTrejo/ContinuousControl/tree/master/data) is Unity's environment for 1 and 20 agents.
+- [python/](https://github.com/MauricioTrejo/ContinuousControl/tree/master/python) has necessary files for Unity's environment.
+- [reacher](https://github.com/MauricioTrejo/ContinuousControl/blob/master/reacher.gif) is a gif with the environment of the project.
 
 <a name="acknowledgement"></a>
 ## Acknowledgement
